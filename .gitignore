@@ -1,0 +1,10 @@
+# build outputs / runtime artifacts
+*.exe
+config.json
+ssm.log
+ssm-engine.pid
+ssm-engine.stop.txt
+
+# OS noise
+Thumbs.db
+.DS_Store
